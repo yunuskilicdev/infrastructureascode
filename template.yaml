@@ -34,11 +34,6 @@ Parameters:
     Type: String
     Default: 10.0.4.0/24
 
-  RedisURL:
-    Description: RedisURL
-    Type: String
-    Default: Empty
-
 Resources:
 
   SampleManagedPolicy:
